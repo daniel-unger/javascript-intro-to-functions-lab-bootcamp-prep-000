@@ -10,11 +10,17 @@
 //console.log(string.toUpperCase())
 //# 3)
   function logWhisper(string) {
-  //  console.log(string.toLowerCase());
+   console.log(string.toLowerCase());
 
-       return string.toLowerCase()
+    //   return string.toLowerCase()
 
     }
+    // # 3)
+function whisper(string) {
+     return string.toLowerCase()
+  //   console.log('hello');
+  }
+
 
 //# 4)
       function sayHiToGrandma(string) {
