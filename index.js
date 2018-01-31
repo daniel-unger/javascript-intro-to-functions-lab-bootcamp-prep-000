@@ -4,8 +4,8 @@
    }
 // # 2)
   function logShout(string) {
-    //  return string.toUpperCase()  //so this function will
-       console.log(string.toUpperCase())
+     return string.toUpperCase()  
+      // console.log(string.toUpperCase())
      }
 
 //# 3)
