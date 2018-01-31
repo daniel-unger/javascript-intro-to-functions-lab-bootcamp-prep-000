@@ -13,7 +13,7 @@
     console.log(string.toLowerCase());
 
        return string.toLowerCase()
-    
+
     }
 
 //# 4)
