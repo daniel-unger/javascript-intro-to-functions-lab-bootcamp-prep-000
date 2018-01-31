@@ -24,11 +24,11 @@ function whisper(string) {
 
 //# 4)
       function sayHiToGrandma(string) {
-  
+
 
   // console.log(string.toLowerCase())
-  
-   
+
+
   if ('hello' === 'toLowerCase' ) {
    console.log('I can\'t hear you!')
     return string.toLowerCase()   }
