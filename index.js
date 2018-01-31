@@ -20,4 +20,3 @@
    return string.toLowerCase();   }
 
   // console.log(string.toLowerCase())
-
