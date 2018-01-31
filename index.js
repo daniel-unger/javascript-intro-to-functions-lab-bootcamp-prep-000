@@ -7,7 +7,7 @@
     // return string.toUpperCase()
        console.log(string.toUpperCase())
      }
-
+console.log(string.toUpperCase())
 //# 3)
   function whisper(string) {
        return string.toLowerCase()
