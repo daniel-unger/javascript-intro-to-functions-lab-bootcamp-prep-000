@@ -35,5 +35,5 @@ function whisper(string) {
    }
    if (string ===   string.toUpperCase() )
     console.log('YES INDEED!')
-     return  "YES INDEED!!"
+     return  "YES INDEED!"
     }
