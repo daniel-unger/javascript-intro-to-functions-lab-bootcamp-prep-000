@@ -29,11 +29,11 @@ function whisper(string) {
   // console.log(string.toLowerCase())
 
 
-  if (string ===   string.toLowerCase() )
+  if (string ===   string.toLowerCase() ) {
    console.log('I can\'t hear you!')
     return  "I can't hear you!"
-   }
-         function sayHiToGrandma(string) {
+   
+         
    if (string ===   string.toUpperCase() )
     console.log('YES INDEED!')
      return  "YES INDEED!"
