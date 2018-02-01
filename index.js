@@ -30,7 +30,7 @@ if (string === string.toLowerCase()
     return  "I can't hear you!"
 
 
-   if (string ===   string.toUpperCase()
+   if (string === string.toUpperCase()
     //console.log('YES INDEED!')
      return  "YES INDEED!"
     }
