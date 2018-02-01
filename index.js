@@ -31,4 +31,5 @@ function whisper(string) {
 
   if (string ===   string.toLowerCase() )
    console.log('I can\'t hear you!')
-    return string.toLowerCase()   }
+    return  "I can't hear you!"
+()   }
