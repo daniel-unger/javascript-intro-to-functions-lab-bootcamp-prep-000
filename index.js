@@ -31,6 +31,6 @@ if (string === string.toLowerCase()
 
 
    if (string ===   string.toUpperCase()
-    console.log('YES INDEED!')
+    //console.log('YES INDEED!')
      return  "YES INDEED!"
     }
